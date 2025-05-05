@@ -1,4 +1,95 @@
 =======
+## 0.152.0 (2025-05-02)
+
+### Feat
+
+- Added Fermanagh Omagh
+- Added Twekesbury
+- added Slough council
+- Added Argus Council
+- added Angus to input.json
+
+### Fix
+
+- Chichester now only requires postcode and house number
+- Broadland now only requires postcode and house number
+- Barking now only requires postcode and house number
+- Brighton now only requires postcode and house number
+- ensured all bins for this council
+- added skip_get_url to hyndburn
+
+## 0.151.0 (2025-04-27)
+
+### Feat
+
+- version bump
+
+### Fix
+
+- more robust brent date handling
+- input.json requires web_driver
+- Rugby fix
+- simplified blackburn
+
+## 0.150.0 (2025-04-27)
+
+### Feat
+
+- added melton
+
+### Fix
+
+- added melton
+- processed all bins for Moray
+
+## 0.149.0 (2025-04-27)
+
+### Feat
+
+- added pembrokeshire
+
+## 0.148.6 (2025-04-27)
+
+### Fix
+
+- updated input.json
+- cloudflare fix - switch to selenium method
+
+## 0.148.5 (2025-04-27)
+
+### Fix
+
+- output check
+- parsed bin info
+- selenium navigation
+- input.json changes
+
+## 0.148.4 (2025-04-27)
+
+### Fix
+
+- used canonical 'nice name'
+
+## 0.148.3 (2025-04-25)
+
+### Fix
+
+- working hyndburn
+- hyndburn input.json
+
+## 0.148.2 (2025-04-24)
+
+### Fix
+
+- Update docker-compose.yml
+
+## 0.148.1 (2025-04-22)
+
+### Fix
+
+- added bank holiday offsets.
+- added bank holiday offsets.
+
 ## 0.148.0 (2025-04-19)
 
 ### Feat
